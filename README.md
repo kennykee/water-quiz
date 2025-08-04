@@ -17,8 +17,7 @@ This project is an **interactive, stage-based water conservation quiz** designed
 
 ### 📝 **Your Mission**
 
-To collect and store water to help Singapore survive the water crisis.  
-You will embark on a journey through **4 levels of challenges**:
+To collect and store water to help Singapore survive the water crisis. You will embark on a journey through **4 levels of challenges**:
 
 | Stage | Title | Description |
 |-------|-------|-------------|
@@ -27,8 +26,7 @@ You will embark on a journey through **4 levels of challenges**:
 | 03 | Water Consultant | Advanced level water saving scenarios |
 | 04 | Water Specialist | Master-level challenge for true water heroes |
 
-Each stage has **3 quiz questions**.  
-A correct answer **earns water to be stored** in your virtual water meter. The more correct answers, the more water you store. The meter visually indicates your success and Singapore’s chance of survival.
+Each stage has **3 quiz questions**. A correct answer **earns water to be stored** in your virtual water meter. The more correct answers, the more water you store. The meter visually indicates your success and Singapore’s chance of survival.
 
 ---
 
